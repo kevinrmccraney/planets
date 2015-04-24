@@ -1,0 +1,26 @@
+body {
+    height: 100%;
+    margin: 0;
+    font-size: 10px;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    background-color: black;
+}
+
+h1, p{
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 0;
+    margin-right: 20px;
+}
+
+#headingwrapper{
+    position: fixed;
+    height: 0;
+    width: 100%;
+}
+
+bodywrapper{
+    float: left;
+    position: relative;
+}
